@@ -1,0 +1,19 @@
+body {
+    background-color: maroon;
+}
+#T1{
+    color: mintcream;
+    background-color: rgb(4, 47, 90);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    font-size: 45px;
+}
+#T2{
+    color: navy;
+}
+.fundo {
+    background-color: snow;
+}
+p{
+    color: red;
+}
